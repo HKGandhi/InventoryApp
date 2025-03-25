@@ -1,0 +1,30 @@
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\bin\Debug\net8.0\InventoryBAL.deps.json
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\bin\Debug\net8.0\InventoryBAL.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\bin\Debug\net8.0\InventoryBAL.pdb
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\bin\Debug\net8.0\InventoryDAL.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\bin\Debug\net8.0\InventoryDAL.pdb
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.csproj.AssemblyReference.cache
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.AssemblyInfoInputs.cache
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.AssemblyInfo.cs
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\obj\Debug\net8.0\Inventor.D5A1297C.Up2Date
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\obj\Debug\net8.0\refint\InventoryBAL.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.pdb
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryBAL\obj\Debug\net8.0\ref\InventoryBAL.dll
+D:\InventoryApp\InventoryBAL\bin\Debug\net8.0\InventoryBAL.deps.json
+D:\InventoryApp\InventoryBAL\bin\Debug\net8.0\InventoryBAL.dll
+D:\InventoryApp\InventoryBAL\bin\Debug\net8.0\InventoryBAL.pdb
+D:\InventoryApp\InventoryBAL\bin\Debug\net8.0\InventoryDAL.dll
+D:\InventoryApp\InventoryBAL\bin\Debug\net8.0\InventoryDAL.pdb
+D:\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.csproj.AssemblyReference.cache
+D:\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.AssemblyInfoInputs.cache
+D:\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.AssemblyInfo.cs
+D:\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.csproj.CoreCompileInputs.cache
+D:\InventoryApp\InventoryBAL\obj\Debug\net8.0\Inventor.D5A1297C.Up2Date
+D:\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.dll
+D:\InventoryApp\InventoryBAL\obj\Debug\net8.0\refint\InventoryBAL.dll
+D:\InventoryApp\InventoryBAL\obj\Debug\net8.0\InventoryBAL.pdb
+D:\InventoryApp\InventoryBAL\obj\Debug\net8.0\ref\InventoryBAL.dll

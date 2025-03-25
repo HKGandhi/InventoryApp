@@ -1,0 +1,98 @@
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryApp.exe
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryApp.deps.json
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryApp.runtimeconfig.json
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryApp.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryApp.pdb
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryBAL.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryDAL.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryBAL.pdb
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryDAL.pdb
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.csproj.AssemblyReference.cache
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.AssemblyInfoInputs.cache
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.AssemblyInfo.cs
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets\msbuild.InventoryApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryApp.props
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryApp.props
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryApp.props
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\scopedcss\bundle\InventoryApp.styles.css
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\Inventor.BA6B0EE4.Up2Date
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\refint\InventoryApp.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.pdb
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.genruntimeconfig.cache
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryApp\obj\Debug\net8.0\ref\InventoryApp.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\appsettings.Development.json
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\appsettings.json
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryApp.exe
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryApp.deps.json
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryApp.runtimeconfig.json
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryApp.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryApp.pdb
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\CsvHelper.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryBAL.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryDAL.dll
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryBAL.pdb
+D:\InventoryApp\InventoryApp\bin\Debug\net8.0\InventoryDAL.pdb
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.csproj.AssemblyReference.cache
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.AssemblyInfoInputs.cache
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.AssemblyInfo.cs
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.csproj.CoreCompileInputs.cache
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.MvcApplicationPartsAssemblyInfo.cs
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.MvcApplicationPartsAssemblyInfo.cache
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets\msbuild.InventoryApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryApp.props
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryApp.props
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryApp.props
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\scopedcss\bundle\InventoryApp.styles.css
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\Inventor.BA6B0EE4.Up2Date
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.dll
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\refint\InventoryApp.dll
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.pdb
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\InventoryApp.genruntimeconfig.cache
+D:\InventoryApp\InventoryApp\obj\Debug\net8.0\ref\InventoryApp.dll

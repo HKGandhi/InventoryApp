@@ -1,0 +1,24 @@
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryDAL\bin\Debug\net8.0\InventoryDAL.deps.json
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryDAL\bin\Debug\net8.0\InventoryDAL.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryDAL\bin\Debug\net8.0\InventoryDAL.pdb
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.csproj.AssemblyReference.cache
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.AssemblyInfoInputs.cache
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.AssemblyInfo.cs
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.csproj.CoreCompileInputs.cache
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryDAL\obj\Debug\net8.0\refint\InventoryDAL.dll
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.pdb
+C:\Users\Harsh Gandhi\source\repos\InventoryApp\InventoryDAL\obj\Debug\net8.0\ref\InventoryDAL.dll
+D:\InventoryApp\InventoryDAL\bin\Debug\net8.0\InventoryDAL.deps.json
+D:\InventoryApp\InventoryDAL\bin\Debug\net8.0\InventoryDAL.dll
+D:\InventoryApp\InventoryDAL\bin\Debug\net8.0\InventoryDAL.pdb
+D:\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.csproj.AssemblyReference.cache
+D:\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.AssemblyInfoInputs.cache
+D:\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.AssemblyInfo.cs
+D:\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.csproj.CoreCompileInputs.cache
+D:\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.dll
+D:\InventoryApp\InventoryDAL\obj\Debug\net8.0\refint\InventoryDAL.dll
+D:\InventoryApp\InventoryDAL\obj\Debug\net8.0\InventoryDAL.pdb
+D:\InventoryApp\InventoryDAL\obj\Debug\net8.0\ref\InventoryDAL.dll
