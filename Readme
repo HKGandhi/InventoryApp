@@ -1,1 +1,45 @@
-Demo
+Overview of the Application
+Controllers:
+The application consists of three controllers:
+
+Booking Controller
+
+Inventory Controller
+
+Members Controller
+
+CSV Upload and CRUD Operations:
+Both the Inventory and Members Controllers accept CSV files as input. After uploading the CSV, the data is stored in an In-Memory Database. Users can perform CRUD operations on this data as needed.
+
+Booking Controller:
+The Booking Controller contains three methods:
+
+GetAllBookingData: Retrieves all booking data.
+
+BookByInventoryMemberId(int inventoryId, int memberId): This method books an item for a member by reducing both the inventory's remaining count and the member's booking count in the respective tables.
+
+CancelBooking(int bookingId): Allows the user to cancel a booking by providing a unique booking ID. This also updates the member and inventory counts accordingly.
+
+Project Structure:
+The project is divided into three layers:
+
+API: The presentation layer.
+
+BAL (Business Access Layer): Handles business logic.
+
+DAL (Data Access Layer): Manages database interactions.
+
+The API does not communicate directly with the DAL; it relies on the BAL to interact with the DAL.
+
+Dependency Injection and Repository Pattern:
+This project utilizes Dependency Injection and the Repository Pattern for managing dependencies and data access.
+
+Unit Tests:
+Unit test cases have been created for two controllers, and the unit test project is available in this solution:
+
+MemberController
+
+InventoryController
+
+CSV File Upload:
+The CSV files for uploading data are located in the DatainputCSVFile folder. Please retrieve the file from this folder and upload it using Swagger.
