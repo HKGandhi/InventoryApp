@@ -73,8 +73,8 @@ namespace InventoryApp.Controllers
 
         // CSV Upload 
 
-        [HttpPost("UploadInventoryCSV")]
-        public async Task<APIResponse> UploadInventoryCSV(IFormFile file)
+        [HttpPost("UploadMemberCSV")]
+        public async Task<APIResponse> UploadMemberCSV(IFormFile file)
         {
 
             return await _memberRepository.ProcessCSVFileAsync(file);
