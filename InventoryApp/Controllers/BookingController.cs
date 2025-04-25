@@ -2,11 +2,13 @@
 using InventoryBAL.Interface;
 using InventoryBAL.Repository;
 using InventoryDAL.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace InventoryApp.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class BookingController : ControllerBase
@@ -41,6 +43,10 @@ namespace InventoryApp.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Booking>>> GetAllBookingList()
         {
+            for(int i=0;i<=1000000;i++)
+            {
+                Console.WriteLine(i);
+            }
             var booking = await _bookingRepository.GetAllBookingsAsync();
             return Ok(booking);
         }
