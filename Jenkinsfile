@@ -1,6 +1,9 @@
 pipeline {
     agent any
-
+    tools
+    {
+    git 'Default'
+    }
     environment {
         DOTNET_CLI_TELEMETRY_OPTOUT = '1'
         DOTNET_SKIP_FIRST_TIME_EXPERIENCE = '1'
