@@ -65,11 +65,7 @@ pipeline {
     post {
          always {
 
-             publishHTML (target: [
-                reportDir: 'coveragereport',
-                reportFiles: 'index.html',
-                reportName: 'Code Coverage Report'
-            ]),
+           
             publishCoverage adapters: [
                 coberturaAdapter('**/TestResults/**/coverage.cobertura.xml')
             ],
