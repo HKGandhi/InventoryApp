@@ -31,6 +31,27 @@ pipeline {
         stage('Test') {
             steps {
                 bat 'dotnet test --no-build --verbosity normal --collect:"XPlat Code Coverage"'
+                bat 'dotnet tool install --global dotnet-reportgenerator-globaltool'
+                bat 'reportgenerator -reports:"**/TestResults/**/coverage.cobertura.xml" -targetdir:"coveragereport" -reporttypes:Html'
+            }
+        }
+
+        stage('Check Code Coverage') {
+            steps {
+                script {
+                    def coverageFile = findFiles(glob: '**/TestResults/**/coverage.cobertura.xml')[0]
+                    def coverageXml = new XmlSlurper().parse(coverageFile.path)
+                    def lineRate = coverageXml.@line-rate.toDouble()
+                    def lineCoveragePercent = lineRate * 100
+
+                    echo "Line Coverage Achieved: ${lineCoveragePercent}%"
+
+                    if (lineCoveragePercent < 50) {
+                        error "❌ Code coverage too low: ${lineCoveragePercent}%. Minimum 50% required."
+                    } else {
+                        echo "✅ Code coverage is good: ${lineCoveragePercent}%"
+                    }
+                }
             }
         }
 
@@ -43,6 +64,12 @@ pipeline {
 
     post {
          always {
+
+             publishHTML (target: [
+                reportDir: 'coveragereport',
+                reportFiles: 'index.html',
+                reportName: 'Code Coverage Report'
+            ]),
             publishCoverage adapters: [
                 coberturaAdapter('**/TestResults/**/coverage.cobertura.xml')
             ],
