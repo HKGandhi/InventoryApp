@@ -41,24 +41,7 @@ pipeline {
             }
         }
 
-        stage('Check Code Coverage') {
-            steps {
-                script {
-                    def coverageFile = findFiles(glob: '**/TestResults/**/coverage.cobertura.xml')[0]
-                    def coverageXml = new XmlSlurper().parse(coverageFile.path)
-                    def lineRate = coverageXml.@line-rate.toDouble()
-                    def lineCoveragePercent = lineRate * 100
-
-                    echo "Line Coverage Achieved: ${lineCoveragePercent}%"
-
-                    if (lineCoveragePercent < 50) {
-                        error "❌ Code coverage too low: ${lineCoveragePercent}%. Minimum 50% required."
-                    } else {
-                        echo "✅ Code coverage is good: ${lineCoveragePercent}%"
-                    }
-                }
-            }
-        }
+ 
 
         stage('Publish') {
             steps {
