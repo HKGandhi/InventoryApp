@@ -54,13 +54,13 @@ pipeline {
                 script {
                     if (params.ENVIRONMENT == 'dev') {
                         echo "🚀 Deploying to DEV server..."
-                        bat 'copy /Y out\\*.* \\\\dev-server\\deployments\\inventoryapp\\'
+                        bat 'copy /Y out\\*.* C:\\Deployment\\Dev\\'
                     } else if (params.ENVIRONMENT == 'qa') {
                         echo "🚀 Deploying to QA server..."
-                        bat 'copy /Y out\\*.* \\\\qa-server\\deployments\\inventoryapp\\'
+                        bat 'copy /Y out\\*.* C:\\Deployment\\QA\\'
                     } else if (params.ENVIRONMENT == 'pre-prod') {
                         echo "🚀 Deploying to PRE-PROD server..."
-                        bat 'copy /Y out\\*.* \\\\preprod-server\\deployments\\inventoryapp\\'
+                        bat 'copy /Y out\\*.* C:\\Deployment\\PreProd\\'
                     } else {
                         error "❌ Invalid environment selected."
                     }
