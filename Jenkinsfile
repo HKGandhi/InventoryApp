@@ -30,7 +30,7 @@ pipeline {
 
         stage('Test') {
             steps {
-                bat 'dotnet test --no-build --verbosity normal'
+                bat 'dotnet test --no-build --verbosity normal --collect:"XPlat Code Coverage"'
             }
         }
 
@@ -42,6 +42,12 @@ pipeline {
     }
 
     post {
+         always {
+            publishCoverage adapters: [
+                coberturaAdapter('**/TestResults/**/coverage.cobertura.xml')
+            ],
+            sourceFileResolver: sourceFiles('NEVER_STORE')
+        }
         success {
             echo 'Build and publish succeeded!'
         }
