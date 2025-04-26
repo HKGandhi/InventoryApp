@@ -90,11 +90,12 @@ pipeline {
          always {
 
            
-            publishCoverage adapters: [
-                coberturaAdapter('**/TestResults/**/coverage.cobertura.xml')
-            ],
-                archiveArtifacts artifacts: 'out/**/*.*', fingerprint: true
-            sourceFileResolver: sourceFiles('NEVER_STORE')
+                 publishHTML(target: [
+                reportDir: 'coveragereport',
+                reportFiles: 'index.html',
+                reportName: 'Code Coverage Report'
+            ])
+            archiveArtifacts artifacts: 'out/**/*.*', fingerprint: true
         }
         success {
             echo 'Build and publish succeeded!'
